@@ -5,7 +5,7 @@ import org.junit.Test;
 public class InstantiationTest {
 
     Lab i = new Lab();
-
+    
     /**
      * Because null represents the lack of an object, any return from instantiateANewObject which is not null
      * should be counted as a new object.
